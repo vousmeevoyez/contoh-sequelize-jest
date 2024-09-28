@@ -1,0 +1,1 @@
+# contoh-sequelize-jest
